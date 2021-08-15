@@ -27,3 +27,64 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 🔹 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/wagner-oliveira-dev/)
 
 🔹 ⚡ Fun fact: I'm a huge **Dragon Ball Z fan** 🐉🏀**Z**
+
+<hr>
+
+<h3 align="left">🚀 Languages and Tools:</h3>
+
+<p align="left">
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="icons\languages\bootstrap.svg" alt="Bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://www.cplusplus.com/reference/clibrary/" target="_blank">
+        <img src="icons\languages\c.svg" alt="C" width="40" height="40" />
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+        <img src="icons\languages\css3.svg" alt="Css3" width="40" height="40" />
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?" target="_blank">
+        <img src="icons\languages\html5.svg" alt="Html5" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com/pt-BR/" target="_blank">
+        <img src="icons\languages\java.svg" alt="Java" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+        <img src="icons\languages\javascript.svg" alt="Java Script" width="40" height="40" />
+    </a>
+    <a href="https://jquery.com/" target="_blank">
+        <img src="icons\languages\jquery.png" alt="Jquery" width="40" height="40" />
+    </a>
+    <a href="https://laravel.com/" target="_blank">
+        <img src="icons\languages\laravel.svg" alt="Laravel" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="icons\languages\mysql.svg" alt="Mysql" width="40" height="40" />
+    </a>
+    <a href="https://www.php.net/" target="_blank">
+        <img src="icons\languages\php.svg" alt="Php" width="40" height="40" />
+    </a>
+    <a href="https://spring.io/" target="_blank">
+        <img src="icons\languages\springio.svg" alt="Spring Boot" width="40" height="40" />
+    </a>
+    <a href="https://astah.net/" target="_blank">
+        <img src="icons\tools\astah.svg" alt="Astah" width="40" height="40" />
+    </a>
+    <a href="https://www.codeblocks.org/" target="_blank">
+        <img src="icons\tools\codeBlocks.png" alt="Codeblocks" width="40" height="40" />
+    </a>
+    <a href="https://www.eclipse.org/" target="_blank">
+        <img src="icons\tools\eclipse.png" alt="Eclipse" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="icons\tools\git.svg" alt="Git" width="40" height="40" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="icons\tools\postman.svg" alt="Postman" width="40" height="40" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="icons\tools\vscode.png" alt="Visual Studio Code" width="40" height="40" />
+    </a>
+    <a href="https://www.wampserver.com/en/" target="_blank">
+        <img src="icons\tools\wampserver.png" alt="Wampserver" width="40" height="40" />
+    </a>
+</p>
