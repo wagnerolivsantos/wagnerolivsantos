@@ -20,9 +20,9 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
 🔹 👨‍💻 All of my projects are available at: [Portfolio](https://github.com/wagnerolivsantos/portfolio)
 
-🔹 💬 Ask me about: **Technology**
+🔹 💬 Ask me about: **Technology & Programming Languages**
 
-🔹 📫 How to reach me: **wagnerolivsantos@outlook.com**
+🔹 📫 How to reach me: **wagnerolivsantosdev@gmail.com**
 
 🔹 📄 Know about my experiences: [Linkedin](https://www.linkedin.com/in/wagner-oliveira-dev/)
 
