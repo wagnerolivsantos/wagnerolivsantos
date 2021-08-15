@@ -88,3 +88,15 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
         <img src="icons\tools\wampserver.png" alt="Wampserver" width="40" height="40" />
     </a>
 </p>
+
+<hr>
+
+<h2>📈 Profile Stats</h2>
+
+<div>
+    <a href="https://github.com/wagnerolivsantos">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerolivsantos&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="wagnerolivsantos"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolivsantos&layout=compact&langs_count=7&theme=prussian"/>
+        <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wagnerolivsantos&theme=prussian" alt="wagnerolivsantos" />-->
+    </a>
+</div>
