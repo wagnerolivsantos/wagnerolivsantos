@@ -100,8 +100,16 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerolivsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="wagnerolivsantos"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolivsantos&layout=compact&langs_count=7&theme=algolia"/>
         <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wagnerolivsantos&theme=prussian" alt="wagnerolivsantos" />-->
-    </a>
+    </a>    
 </div>
+
+<hr>
+
+<h2>⭐ Contribution Graph</h2>
+
+<p align="center">
+    <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=wagnerolivsantos&theme=react-dark" alt="wagnerolivsantos" />
+</p>
 
 <hr>
 
