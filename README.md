@@ -97,8 +97,8 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
 <div align="center">
     <a href="https://github.com/wagnerolivsantos">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerolivsantos&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="wagnerolivsantos"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolivsantos&layout=compact&langs_count=7&theme=prussian"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerolivsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="wagnerolivsantos"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolivsantos&layout=compact&langs_count=7&theme=algolia"/>
         <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wagnerolivsantos&theme=prussian" alt="wagnerolivsantos" />-->
     </a>
 </div>
