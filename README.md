@@ -20,7 +20,7 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
 🔹 👨‍💻 All of my projects are available at: [Portfolio](https://github.com/wagnerolivsantos/portfolio)
 
-🔹 💬 Ask me about: **Technology & Programming Languages**
+🔹 💬 Ask me about anything, I am happy to help
 
 🔹 📣 We can talk in: **Portuguese Or English Basic**
 
