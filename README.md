@@ -16,11 +16,13 @@
 🔹 👯 I’m looking to collaborate on [Control System of Menus and Teaching
 Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
-🔹 🤝 I’m looking for help with: [Production Schedule Control](https://github.com/wagnerolivsantos/CVR)
+<!--🔹 🤝 I’m looking for help with: [Production Schedule Control](https://github.com/wagnerolivsantos/CVR)-->
 
 🔹 👨‍💻 All of my projects are available at: [Portfolio](https://github.com/wagnerolivsantos/portfolio)
 
 🔹 💬 Ask me about: **Technology & Programming Languages**
+
+🔹 📣 We can talk in: **Portuguese Or English Basic**
 
 🔹 📫 How to reach me: **wagnerolivsantosdev@gmail.com**
 
@@ -93,7 +95,7 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
 <h2>📈 Profile Stats</h2>
 
-<div>
+<div align="center">
     <a href="https://github.com/wagnerolivsantos">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerolivsantos&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="wagnerolivsantos"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolivsantos&layout=compact&langs_count=7&theme=prussian"/>
@@ -115,7 +117,7 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
 <h3 align="left">🤘 Connect with me:</h3>
 
-<div>    
+<div align="center">    
     <!--<a href="https://discord.gg/NA6F9F58zS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a>-->
     <a href="mailto:wagnerolivsantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
     <a href="https://www.instagram.com/wagnerolivsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
@@ -124,5 +126,6 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 </div>
 
 <hr>
-
-![Snake animation](https://github.com/wagnerolivsantos/wagnerolivsantos/blob/output/github-contribution-grid-snake.svg)
+<div align="center">   
+    <img src="https://github.com/wagnerolivsantos/wagnerolivsantos/blob/output/github-contribution-grid-snake.svg" alt="C" />
+</div>
