@@ -100,3 +100,13 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
         <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wagnerolivsantos&theme=prussian" alt="wagnerolivsantos" />-->
     </a>
 </div>
+
+<hr>
+
+<h2>🏆 Profile Trophy</h2>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=wagnerolivsantos&theme=nord&no-bg=true&margin-w=15" alt="wagnerolivsantos" />
+    </a>
+</p>
