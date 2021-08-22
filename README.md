@@ -18,7 +18,7 @@ Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
 <!--🔹 🤝 I’m looking for help with: [Production Schedule Control](https://github.com/wagnerolivsantos/CVR)-->
 
-🔹 👨‍💻 All of my projects are available at: [Portfolio](https://github.com/wagnerolivsantos/portfolio)
+🔹 👨‍💻 All of my projects are available at: [Portfolio](https://wagnerolivsantos.github.io/portfolio/)
 
 🔹 💬 Ask me about anything, I am happy to help
 
