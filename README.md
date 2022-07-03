@@ -13,10 +13,10 @@
 
 🔹 🌱 I’m currently learning: **Bootstrap, Css, Html, Java, Javascript, Jquery, Laravel, Mysql, PHP, Spring Boot**.
 
-🔹 👯 I’m looking to collaborate on [Control System of Menus and Teaching
+<!--🔹 👯 I’m looking to collaborate on [Control System of Menus and Teaching
 Plans](https://github.com/wagnerolivsantos/SCPE1.0)
 
-<!--🔹 🤝 I’m looking for help with: [Production Schedule Control](https://github.com/wagnerolivsantos/CVR)-->
+🔹 🤝 I’m looking for help with: [Production Schedule Control](https://github.com/wagnerolivsantos/CVR)-->
 
 🔹 👨‍💻 All of my projects are available at: [Portfolio](https://wagnerolivsantos.github.io/portfolio/)
 
